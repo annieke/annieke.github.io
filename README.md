@@ -1,3 +1,2 @@
 # annieke.github.io
-annieke.github.io
-annieke.me
+also at annieke.me
