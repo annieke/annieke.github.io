@@ -1,6 +1,10 @@
 /* ---- reset ---- */
+html {
+  height: 100%;
+}
 
 body {
+  min-height: 100%;
   margin: 0;
   font:normal 75% Arial, Helvetica, sans-serif;
 }
