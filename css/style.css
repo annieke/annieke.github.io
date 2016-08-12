@@ -33,11 +33,20 @@ z-index: 999999;
   margin-left: -52.5px;
 }
 
-/* ---- title font ---- */
+/* ---- title fonts ---- */
 @font-face {
   font-family: 'Mekar Script';
   src: url('fonts/mekar/MekarScript.ttf');
   src: url('fonts/mekar/MekarScript.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: geometricPrecision;
+}
+
+@font-face {
+  font-family: 'Youngblood';
+  src: url('fonts/youngblood/Youngblood.ttf');
+  src: url('fonts/youngblood/Youngblood.woff') format('woff');
   font-style: normal;
   font-weight: normal;
   text-rendering: geometricPrecision;
@@ -51,7 +60,7 @@ z-index: 999999;
   text-align: center;
   top: 50%;
   left: 0;
-  font-family: 'Mekar Script';
+  font-family: 'Mekar Script', 'Youngblood';
   font-size: 18em;
   color: #fff;
 

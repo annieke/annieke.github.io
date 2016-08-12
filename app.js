@@ -1,7 +1,7 @@
 // jQuery function for preloader
 $(window).on('load', function() {
 	$('#preloader').fadeOut();
-	$('.preloader').delay(370).fadeOut('slow');
+	$('.preloader').delay(300).fadeOut('slow');
 });
 
 // /* --- DEPLOYMENT VERSION --- */
@@ -18,7 +18,7 @@ $(window).on('load', function() {
 particlesJS("particles-js", {
   "particles": {
     "number": {
-      "value": 180,
+      "value": 130,
       "density": {
         "enable": true,
         "value_area": 800
@@ -66,7 +66,7 @@ particlesJS("particles-js", {
       "enable": true,
       "distance": 150,
       "color": "#fff",
-      "opacity": 0.4,
+      "opacity": 0.8,
       "width": 1
     },
     "move": {
