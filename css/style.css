@@ -67,36 +67,6 @@ z-index: 999999;
   color: #fff;
 }
 
-.link-annieke {
-  overflow: hidden;
-  color: #fff;
-
-  -webkit-transition-property: all;
-        transition-property: all;
-  -webkit-transition-duration: .4s;
-        transition-duration: .4s;
-
-
-}
-
-
-.link-annieke:visited {
-  color: #fff;
-}
-
-.link-annieke:hover {
-	color: #fff;
-  text-decoration: none;
-}
-
-
-
-.link-annieke:focus {
-  text-decoration: none;
-}
-
-
-
 /* ---- particles.js container ---- */
 
 #particles-js {
