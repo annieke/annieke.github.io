@@ -15,7 +15,6 @@ canvas {
   height: 100vh;
 }
 
-
 /* ---- preloader ---- */
 .preloader {
 position: fixed;
@@ -31,8 +30,9 @@ z-index: 999999;
   position: absolute;
   top: 50%;
   left: 50%;
-  margin-top: -52.5px;
-  margin-left: -52.5px;
+  margin-top: -35px;
+  margin-left: -35px;
+  height: 70px;
 }
 
 
@@ -215,4 +215,26 @@ z-index: 999999;
   -moz-animation:scroll-wheel 1.8s linear 0s infinite normal none;
   -webkit-animation:scroll-wheel 1.8s linear 0s infinite normal none;
   animation:scroll-wheel 1.8s linear 0s infinite normal none
+}
+
+
+/* ------ NAVIGATION ------ */
+.navbar {
+  background-color: transparent;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+
+/* ------ copyright ------ */
+#copyright {
+  text-align: center;
 }
