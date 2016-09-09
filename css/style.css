@@ -2,7 +2,7 @@
 body {
   min-height: 100%;
   margin: 0;
-  font:normal Helvetica, Arial, sans-serif;
+  font-family:'Poiret One', normal Helvetica, Arial, sans-serif;
 }
 
 canvas {
@@ -220,7 +220,10 @@ z-index: 999999;
 
 /* ------ NAVIGATION ------ */
 .navbar {
-  background-color: transparent;
+  background: rgba(255, 255, 255, 0.5);
+  border-color: transparent;
+  font-size: 2.5em;
+  font-size: 2.5vw;
 }
 
 .navbar .navbar-nav {
@@ -233,8 +236,20 @@ z-index: 999999;
   text-align: center;
 }
 
+#navigation .active a {
+  background-color: transparent;
+  color: #FFF;
+}
+
+
+/* ------ CONNECT ------ */
+#connect {
+  background-color: #D6A4A4;
+}
+
 
 /* ------ copyright ------ */
 #copyright {
   text-align: center;
+  background-color: #D6A4A4;
 }
