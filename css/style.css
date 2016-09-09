@@ -89,7 +89,7 @@ z-index: 999999;
 /* ---- scroll icon ---- */
 .scroll {
   margin: 0 0 0 -15px;
-  position: absolute;;
+  position: absolute;
   bottom: 15%;
   left: 50%;
   width: 30px;
@@ -245,6 +245,77 @@ z-index: 999999;
 /* ------ CONNECT ------ */
 #connect {
   background-color: #D6A4A4;
+}
+
+.icon-wrapper {
+  width: 100%;
+  height: 0px;
+  text-align: center;
+  position: relative;
+  top: 45%;
+  line-height: -2em;
+}
+
+.icon {
+	display: inline-block;
+	font-size: 0px;
+	cursor: pointer;
+	margin: 15px 30px;
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+  color: #D6A4A4;
+	box-shadow: 0 0 0 3px #fff;
+	-webkit-transition: color 0.3s;
+	-moz-transition: color 0.3s;
+	transition: color 0.3s;
+}
+
+.icon:after {
+	pointer-events: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	content: '';
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+
+  top: -2px;
+	left: -2px;
+	padding: 2px;
+	z-index: -1;
+	background: #fff;
+	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+	-moz-transition: -moz-transform 0.2s, opacity 0.2s;
+	transition: transform 0.2s, opacity 0.2s;
+}
+
+.icon:before {
+	speak: none;
+	font-size: 48px;
+	line-height: 90px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	display: block;
+	-webkit-font-smoothing: antialiased;
+}
+
+.icon:hover {
+	color: #D6A4A4;
+}
+
+.icon:hover:after {
+	-webkit-transform: scale(0.85);
+	-moz-transform: scale(0.85);
+	-ms-transform: scale(0.85);
+	transform: scale(0.85);
 }
 
 
