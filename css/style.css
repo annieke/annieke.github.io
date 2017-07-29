@@ -245,15 +245,16 @@ z-index: 999999;
 /* ------ CONNECT ------ */
 #connect {
   background-color: #D6A4A4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .icon-wrapper {
   width: 100%;
-  height: 0px;
   text-align: center;
-  position: relative;
-  top: 45%;
-  line-height: -2em;
+  align-self: center;
 }
 
 .icon {
@@ -322,5 +323,5 @@ z-index: 999999;
 /* ------ copyright ------ */
 #copyright {
   text-align: center;
-  background-color: #D6A4A4;
+  width: 100%;
 }
