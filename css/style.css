@@ -248,7 +248,6 @@ z-index: 999999;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
 }
 
 .icon-wrapper {
@@ -324,4 +323,6 @@ z-index: 999999;
 #copyright {
   text-align: center;
   width: 100%;
+  position: absolute;
+  bottom: 0;
 }
