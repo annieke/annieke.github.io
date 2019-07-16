@@ -1,0 +1,6 @@
+# skills section data
+
+label: Big five personality
+id : ps
+aspects: Openness, Agreeableness, Conscientiousness, Neuroticism, Extraversion
+percentage: 92, 71, 75, 13, 92
