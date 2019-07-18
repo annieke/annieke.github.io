@@ -1,11 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Coinbase
+  link: https://www.coinbase.com/
+  date: August 2019 - 
+  job: Software Engineer
+
 - name: Airbnb
-  link: http://www.airbnb.com/
+  link: https://www.airbnb.com/
   date: June 2018 - August 2018
   job: Software Engineering Intern
 
 - name: Yelp
-  link: http://www.yelp.com/
+  link: https://www.yelp.com/
   date: January 2018 - March 2018
   job: Software Engineering Intern

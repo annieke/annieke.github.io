@@ -14,11 +14,11 @@ keywords: ["annie ke", "annie", "ke"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Pacific Daylight Time
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /posts/:year-:month/:title
 
 kramdown:
   auto_ids: true
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Annie Ke
   avatar: avatar.jpg
-  job: "Software, politics, anything new"
+  job: "Software, politics, new + old stuff"
   bio: "Hello I'm Annie!! I like people, technology, and nature (minus mosquitoes)."
   email: annieke8@gmail.com
   twitter: annieYke
