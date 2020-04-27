@@ -2,7 +2,7 @@
 layout: post
 title: "Sci-fi induced reflections"
 categories: [thoughts]
-tags: [technology, american liberalism]
+tags: [technology, united states]
 ---
 
 Remember when [everyone shat on Jeff Bezos](https://www.marketwatch.com/story/jeff-bezos-thinks-his-fortune-is-best-spent-in-space-2018-05-01) for saying "The only way that I can see to deploy this much financial resource is by converting my Amazon winnings into space travel," when world hunger exists? <!--more--> I still wish the richest man alive dedicated more of his wealth to philanthropy, but finishing the Three-Body trilogy reminded me of another worldview I softly hold. For context, here's the rest of Bezos:
