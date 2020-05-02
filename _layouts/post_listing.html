@@ -39,6 +39,11 @@ layout: default
       <p>
         {{ post.excerpt }}
       </p>
+      {% if post.content contains site.excerpt_separator %}
+      <a class="read-more" href="{{ post.url }}">
+        <i>Continue</i>
+      </a>
+      {% endif %}
     </div>
     {% endif %}
 

@@ -82,7 +82,10 @@ section.post {
 // Read more buttons
 
 a.read-more {
-  padding: 5px 8px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+	color: $info;
 }
 
 // Post content
