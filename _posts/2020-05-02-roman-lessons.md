@@ -19,9 +19,9 @@ The Roman Empire was impressive by its sheer size. I assumed expansion was the i
 > 
 > ...this system of alliances became an effective mechanism for converting Rome's defeated enemies into part of its growing military machine; and at the same time it gave those allies a stake in the Roman enterprise, thanks to the booty and glory that were shared in the event of victory. Once the Roman's military success started, they managed to make it self-sustaining...
 
-This shit sounds like the military equivalent of [franchising](https://en.wikipedia.org/wiki/Franchising): the Romans provided the existing allies and the name brand; the conquered peoples provided the manpower and even equipment for further expansion. Increasing returns!
+This shit sounds like the military equivalent of [franchising](https://en.wikipedia.org/wiki/Franchising): the Romans provided the existing allies and the name brand; the conquered peoples provided the manpower and even equipment for further expansion. That plus increasing returns of manpower.
 
-Of course, the Romans had to execute on these alliances well. Low touch enough to not be an administrative burden, but controlled enough to ensure obedience. Given how well this scheme worked, I'm surprised by the lack of design in this early stage. The Romans seemed to have just greedy-algorithmed it by a per-victory, ad hoc basis. Yet it worked so brilliantly long term.
+Of course, the Romans had to execute these alliances well. Low touch enough to prevent administrative burdens, but controlled enough to ensure obedience. Given how well this scheme worked, I'm surprised by the lack of design in this early stage. The Romans seemed to have just greedy-algorithmed it by a per-victory, ad hoc basis. Yet it was so effective long term.
 
 ### State-over-self Culture
 
@@ -31,12 +31,14 @@ In "A Wider World," Beard highlights early historian Polybius's insights around 
 > 
 > 'The most important upshot of this,' Polybius concludes, 'is that the younger generation is inpsired to endure all suffering for the common good, in the hope of winning the glory that belongs to the brave.'
 
-Intentional or not, Roman culture seemed to have hijacked the minds of its citizens and turned their life's purpose into growing the empire. Reminiscent of the way *Sapiens* declared grains domesticated humans instead of the other way around. Like a disease or parasite, the military culture that produced these stories learned to use humans as tools to endlessly grow itself.
+Intentional or not, Roman culture seemed to have hijacked the minds of its citizens and turned their purposes into growing the Roman empire itself, reminiscent of the way *Sapiens* declared grains domesticated humans instead of the other way around. Like a disease or parasite, the military culture that produced these stories learned to use humans as tools to endlessly expand its own influence.
 
-In today's "enlightened" view around work (to which I subscribe), you're supposed to work for yourself and extract value from the company. But before the wokeness hit, hustle culture was pretty popular. I wonder if that was how Silicon Valley tried to grow itself before people caught on.
+In today's "enlightened" view around work (that I subscribe to), you work for yourself, sometimes in a mutually beneficial relationship with a company. But just a few years ago, hustle culture was popular. I wonder if that was how tech culture tried to expand itself before people caught on.
 
-I consider it stupid now to consider anyTHING more valuable than my own life, but maybe the Romans did something right by being so willing to die for their empire. Ancient Rome pioneered arches, aqueducts, roads and produced a lot of pleasing art. But these things also could have come about with fewer people dying in the process. 
+I consider it stupid now to consider any *thing* more valuable than my own life, but maybe the Romans did more than satisfy the egos of consuls and patricians by being so willing to die. Ancient Rome pioneered arches, aqueducts, roads and produced a lot of pleasing art. Yet I can't help but believe these things still would've come about without endless war.
 
 ### Love as a modern concept
 
-Roman stories, real and made up, feature a lot of family killings. They seem pretty taboo back then, but almost more for breaking honor than for today's horror of harming someone who loves and is close to you. This makes me wonder, are modern beliefs around love and social connections relatively new concepts? Did people believe in nurturing your offspring through unconditional love back then? Because if so, maybe fewer people would have killed their dads for placing too high of expectations on them, as told in "A Wider World." 
+Roman stories, real and made up, feature a lot of family killings. They seem pretty taboo back then, but almost more for breaking honor than for today's horror of harming someone who loves and is close to you. These stories make me wonder, are modern beliefs around love and social connections relatively new? Did people believe in nurturing your offspring through unconditional love back then? Because if so, maybe fewer people would have killed their dads for placing insurmountable expectations on them, as told in "A Wider World
+
+*To be updated as I read more of the book.*
