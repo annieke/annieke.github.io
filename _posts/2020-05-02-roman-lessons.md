@@ -37,8 +37,8 @@ In today's "enlightened" view around work (that I subscribe to), you work for yo
 
 I consider it stupid now to consider any *thing* more valuable than my own life, but maybe the Romans did more than satisfy the egos of consuls and patricians by being so willing to die. Ancient Rome pioneered arches, aqueducts, roads and produced a lot of pleasing art. Yet I can't help but believe these things still would've come about without endless war.
 
-### Love as a modern concept
+### Parental love as a modern concept
 
-Roman stories, real and made up, feature a lot of family killings. They seem pretty taboo back then, but almost more for breaking honor than for today's horror of harming someone who loves and is close to you. These stories make me wonder, are modern beliefs around love and social connections relatively new? Did people believe in nurturing your offspring through unconditional love back then? Because if so, maybe fewer people would have killed their dads for placing insurmountable expectations on them, as told in "A Wider World
+Roman stories, real and made up, feature a lot of family killings. They seem pretty taboo back then, but almost more for breaking honor than for today's horror of harming someone who loves and is close to you. These stories make me wonder, are modern beliefs around love and social connections relatively new? Did people believe in nurturing your offspring through unconditional love back then? Because if so, maybe fewer people would have killed their dads for placing insurmountable expectations on them, as told in "A Wider World."
 
 *To be updated as I read more of the book.*
